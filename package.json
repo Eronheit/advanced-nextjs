@@ -1,5 +1,5 @@
 {
-  "name": "client",
+  "name": "boilerplate",
   "private": true,
   "scripts": {
     "dev": "next dev",
